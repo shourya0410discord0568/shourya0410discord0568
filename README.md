@@ -1,18 +1,22 @@
 # Shourya
 
-## 👤 Who am I?
+## 👤 Who Am I?
+Student passionate about programming, technology, problem-solving, and continuous learning.
 
-Student focused on learning programming, robotics, and problem-solving from an early stage.
+## 🌱 Currently Learning
+- Python programming
+- Git and GitHub
+- Core programming fundamentals
 
-## 🚧 What I'm working on
+## 🛠️ Tools & Technologies
+- Python
+- Git
+- GitHub
+- VS Code
 
-Building Arduino-based robotics projects and strengthening core programming fundamentals.
-
-## 🛠️ Tools I use
-
-Arduino, C/C++, basic electronics, and development tools for embedded systems.
+## 🎯 Goals
+Building projects, improving coding skills, and exploring the world of software development.
 
 ## 📫 Contact
-
-GitHub: https://github.com/shourya0410discord0568;
-Email: 25shouryasingh@gmail.com
+- GitHub: https://github.com/shourya0410discord0568
+- Email: 25shouryasingh@gmail.com
